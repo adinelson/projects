@@ -1,0 +1,2 @@
+Create a new directory and name it coconut. Then create another directory within the coconut directory and name it lime.
+mkdir -p coconut/lime

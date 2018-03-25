@@ -1,0 +1,7 @@
+1) Submit a list of 5 tags you can use with HTML, and a short explanation of what each is used for (remember to use Markdown!).
+
+`<h1></h1>` - Used as the main header of a page
+`<a></a>` - Used as a link
+`<div></div>` - Used to split up sections on the page.
+`<form></form>` - used to create a form
+`<input></input>` - add text/info to the form
